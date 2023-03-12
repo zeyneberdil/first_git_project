@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Local code by Kaan
 
 Remote code Dev : Zeyneb
